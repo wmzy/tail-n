@@ -1,0 +1,25 @@
+{
+  "name": "tail-num",
+  "version": "0.0.0",
+  "description": "tail -n",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmzy/tail-n.git"
+  },
+  "keywords": [
+    "tail",
+    "tail-n",
+    "reverse",
+    "readline"
+  ],
+  "author": "wmzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmzy/tail-n/issues"
+  },
+  "homepage": "https://github.com/wmzy/tail-n#readme"
+}
