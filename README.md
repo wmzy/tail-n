@@ -15,7 +15,7 @@ npm install tail-num
 ### CLI
 
 ```bash
-# todo
+npx tail-num file-name [n]
 ```
 
 ### API

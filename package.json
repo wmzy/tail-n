@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "tail -n",
   "main": "lib/index.js",
+  "bin": "lib/cli.js",
   "scripts": {
     "test": "nyc mocha -r babel-core/register -r should -r should-sinon",
     "start": "npm test -- --watch",
@@ -38,6 +39,6 @@
     "sinon": "^4.1.2"
   },
   "dependencies": {
-    "reverse-read-line": "^0.1.0"
+    "reverse-read-line": "^0.1.2"
   }
 }
